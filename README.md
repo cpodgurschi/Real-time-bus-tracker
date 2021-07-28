@@ -16,7 +16,7 @@ My task in this activity is twofold:
 
  ## Usage
 
-* **#1** When you open the Index.html file, two eyes should appear on the screen.
+* **#1** When you open the Index.html file, the map of Cambridge city and the marker located at MIT should appear on the screen.
 * **#2** When you click the button "Show stops between MIT and Harvard", the marker animation starts, and you should see the marker moving from one bus stop to the next on the map.
 
 ## Support
@@ -25,7 +25,7 @@ You can email me at cpodgurschi@gmail.com for help regarding this project.
 
 ## Roadmap
 
-Changing the eye color, when the eye movement reaches certain coordinates
+Fetch an API with real time bus movement between stops and bus schedule. 
 
 ## License information
 No applicable license at this time.
