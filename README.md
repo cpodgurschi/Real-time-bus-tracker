@@ -11,8 +11,8 @@ My task in this activity is twofold:
 
  ## Installation
 
-* **Step 1**: Download all documents from the  file: Index.html, eyes.js, README.md files, styles.css, and eyes.png
-* **Step 2**: Open the Index.html file
+* **Step 1**: Download all documents from the  file: Index.html, mapanimation.js, README.md files, styles.css, and Real Time Bus Tracker.png
+* **Step 2**: Open the Index.html file to start the exercise 
 
  ## Usage
 
