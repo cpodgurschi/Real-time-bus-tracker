@@ -1,4 +1,4 @@
-# Reak Time Bus Tracker
+# ReaL Time Bus Tracker
 <img src="Real Time Bus Tracker.png" width='100'>
 This exercize is showcasing how to add animation to a map. It uses the MBTA bus data to determine stops between Harvard and MIT and it adds an animated marker on the map to highlight the bus routes. Also, it leverages mapbox (an open-source platform that allows to create and display maps on a web page) and mapboxgl JavaScript library to add the marker to the map. 
 
